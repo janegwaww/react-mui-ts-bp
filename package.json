@@ -1,8 +1,19 @@
 {
   "name": "react-mui-ts-bp",
   "version": "0.1.0",
-  "private": true,
+  "author": {
+    "name": "JameKuo",
+    "url": "https://www.janegwaww.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janegwaww/react-mui-ts-bp.git",
+    "directory": "react-mui-ts-bp"
+  },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.2.0",
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
